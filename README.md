@@ -2,5 +2,7 @@ langmoon
 langmoon1
 langmoon2
 
--feature_A
---fix_B
+# Git教程
+ - feature-A
+ - fix-B
+ - feature-C
